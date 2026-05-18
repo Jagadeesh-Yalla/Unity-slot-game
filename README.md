@@ -11,7 +11,7 @@ A high-performance, mobile-responsive slot machine engine built with Unity (C#) 
 ---
 
 ## 🔗 Live Implementation
-**[View Live Demo](https://ais-pre-oggcget4t24nhxc4xfp6ee-157221779015.asia-east1.run.app)**
+**[View Live Demo](https://vercel.com/yalla-jagadeesh-s-projects/unity-slot-game)**
 
 ---
 
