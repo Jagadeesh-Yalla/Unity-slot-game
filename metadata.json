@@ -1,0 +1,6 @@
+{
+  "name": "Lucky Reels Slot Machine",
+  "description": "A classic 3-reel slot machine game with smooth spinning animations, coin balance system, and win celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
