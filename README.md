@@ -92,7 +92,7 @@ The project follows strict **Object-Oriented Programming (OOP)** principles to e
 ### Web (React) Version:
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/lucky-reels.git
+git clone https://github.com/Jagadeesh-Yalla/unity-slot-game.git
 
 # Install dependencies
 npm install
